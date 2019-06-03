@@ -1,6 +1,15 @@
 # aws-microservices-springboot
 Microservices using AWS and Spring Boot
 
+# Summary
+1) Micro services using Spring boot
+2) Devops
+3) Cloud Native Features
+4) Disaster recovery Strategy
+5) Auto Scaling
+6) CDN
+7) Containers 
+
 # TODO:
 1) Pending Spring boot code for microservices
 2) Pending Cloudformation scripts for infrastructure
